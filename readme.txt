@@ -1,1 +1,1 @@
-Hola, soy Nicolás Cánovas Fuentes
+Hola, soy Nicolás Cánovas Fuentes, edad: 20
